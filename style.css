@@ -1,0 +1,91 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Didact Gothic', sans-serif;
+}
+.nav-item{
+  color: black;
+}
+.container-fruid{
+  padding: 30px;
+}
+.dropdown-item:hover, .nav-link:hover{
+  background-color:rgb(92, 211, 92);
+  border-radius: 5%;
+}
+.nav-item a{
+  font-size: 1.2rem;
+}
+.dropdown-item a{
+  font-size: 25px;
+}
+.heading{
+  width: 30%;
+  text-align: center;
+  margin: 0 auto;
+}
+.jumbotron{
+  margin-top: 100px;
+}
+main{
+background-color: rgb(223, 219, 219);
+}
+.pricing{
+  margin-top: 100px;
+}
+.top-border{
+  border-top: 5px solid rgb(26, 117, 26);
+  border-radius: 5px;
+}
+.price-heading{
+  margin-top: 100px ;
+ text-align: center;
+ padding-bottom: 50px;
+}
+footer{
+  margin-top: 100px;
+}
+.copyright{
+  margin-top: 20px;
+  text-align: center;
+  color: rgb(5, 5, 5);
+  font-weight: 400;
+  width: 100%;
+  padding-bottom: 30px;
+}
+.fa-linkedin-square {
+  margin-top: 10px;
+  font-size: 30px;
+  padding: 50px;
+  background-color: lightgrey;
+}
+.social-media-icons{
+ text-align: center;
+}
+.fa-linkedin-square:hover{
+  color: rgb(45, 145, 45);
+}
+.footer-top-border{
+  border-top: 1px solid black;
+}
+.card-link{
+  font-size: 1.3rem;
+}
+.card-link:hover{
+  text-decoration: underline;
+}
+.contact-heading{
+  margin: 100px 0 50px 0;
+  text-align: center;
+}
+.contact-info a{
+ line-height: 50px;
+ color: rgb(2, 2, 2);
+ font-size: 1.2rem;
+ font-weight: 600;
+}
+.contact-info a:hover{
+  color: rgb(45, 145, 45);
+  
+}
